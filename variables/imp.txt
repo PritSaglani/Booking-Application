@@ -1,0 +1,61 @@
+name                            category                        datatype/type                 used
+opt()                             usrd                             -                        initial opt
+op                                var                             int                       opt input
+book()                            usrd                             -                        booking opt
+bopt                              var                             int                       mode input
+cab()                             usrd                             -                        cab options
+cacit                             var                             int                       cab city input
+bus()                             usrd                             -                        bus options
+buro                              var                             int                       bus route input
+ma                                object                          booking                   booking class
+scan                              object                          Scanner                   scanner class
+des                               object                          designs                   designs class
+icity()                           usrd                             -                        inter city(bus)
+icop                              var                             int                       inter city(state selection)
+icp                               var                             int                       inter city pickup(bus)
+icd                               var                             int                       inter city drop(bus)
+istate()                          usrd                            -                         inter state(bus)
+traint()                          usrd                            -                         train options
+flight()                          usrd                            -                         flight options
+fop                               var                             int                       flight options
+domestic                          usrd                            -                         domestic opt
+cabo                              usrd                            -                         cab book
+cp                                var                             String                    cab pick up
+cd                                var                             String                    cab drop
+cn                                var                             String                    cab passeneger name
+cm                                var                             long                      cab mobile number
+date                              obj                             date                      current date
+time                              obj                             time                      current time
+cf                                var                             int                       cab fair 
+buso                              usrd                            -                         bus booking function
+bp                                var                             int                       bus pickup
+bd                                var                             int                       bus drop
+bt                                var                             int                       bus time
+buss                              usrd                            -                         bus data store
+bup                               var                             string                    bus pickup string
+bud                               var                             string                    bus drop string
+but                               var                             string                    bus time string
+bn                                var                             string                    bus passeneger name
+bpa                               var                             int                       no .of passeneger
+bm                                var                             long                      passenger mobile no
+be                                var                             string                    bus passeneger email
+ba                                var                             int                       bus passeneger age
+buid                              var                             int                       bus ticket id
+bf                                var                             int                       bus ticket fair
+dat                               var
+
+
+
+
+
+
+
+
+
+
+
+
+
+System.out.println("hello world");
+        System.out.print("\033[H\033[2J");
+        System.out.flush();
